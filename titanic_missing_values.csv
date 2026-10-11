@@ -1,0 +1,16 @@
+passenger_id,name,age,gender,fare,embarked
+1,Aarav,22,male,7.25,Southampton
+2,Diya,,female,71.28,Cherbourg
+3,Kabir,26,male,,Southampton
+4,Meera,35,female,53.1,Southampton
+5,Ishaan,,male,8.05,
+6,Anaya,54,female,51.86,Southampton
+7,Vivaan,2,male,21.08,Southampton
+8,Sara,27,female,,Cherbourg
+9,Reyansh,39,male,31.28,
+10,Aditi,14,female,30.07,Cherbourg
+11,Arjun,31,male,18.0,Southampton
+12,Kiara,,female,7.23,Cherbourg
+13,Rohan,45,male,26.55,Southampton
+14,Myra,19,female,,Southampton
+15,Dev,28,male,13.0,Cherbourg
